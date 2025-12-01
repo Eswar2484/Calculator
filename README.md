@@ -53,8 +53,8 @@ project-folder/
 
 ### Extra
 
-* **C** → Clear all
-* **⌫** → Backspace
+* **AC** → Clear all
+* **del** → Backspace
 * **%** → Percentage
 * **=** → Show result
 
