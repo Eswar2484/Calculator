@@ -79,5 +79,3 @@ The layout automatically adjusts to small screens. Buttons resize smoothly and r
 Free to use, modify, and learn from.
 
 ---
-
-If you want a **GitHub‑ready version** or an **upgraded calculator**, tell me and I’ll make it! 🚀
